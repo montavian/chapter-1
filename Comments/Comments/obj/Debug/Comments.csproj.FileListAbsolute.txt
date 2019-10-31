@@ -1,0 +1,6 @@
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\bin\Debug\Comments.exe.config
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\bin\Debug\Comments.exe
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\bin\Debug\Comments.pdb
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\obj\Debug\Comments.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\obj\Debug\Comments.exe
+C:\Users\md145823\Desktop\C# Project\chapter 1\Comments\Comments\obj\Debug\Comments.pdb
